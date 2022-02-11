@@ -16,4 +16,4 @@ Uma versão de Genius feita em Javascript criada para testar lógica de programa
 
 ## Como jogar?
 
-Pressione `Começar` e memorize a sequência msotrada. Depois que a sequência acabar, reproduza-a clicando nos quadrados coloridos na ordem mostrada. Se você acertou, uma sequência maior será mostrada... Se não, pressione `Recomeçar` para começar novamente.
+Pressione `Começar` e memorize a sequência mostrada. Depois que a sequência acabar, reproduza-a clicando nos quadrados coloridos na ordem mostrada. Se você acertou, uma sequência maior será mostrada... Se não, pressione `Recomeçar` para começar novamente.
